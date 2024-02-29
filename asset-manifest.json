@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swagger-react-example/static/css/main.290f9433.css",
+    "main.js": "/swagger-react-example/static/js/main.ed020fd2.js",
+    "static/js/453.07a6ab98.chunk.js": "/swagger-react-example/static/js/453.07a6ab98.chunk.js",
+    "index.html": "/swagger-react-example/index.html",
+    "main.290f9433.css.map": "/swagger-react-example/static/css/main.290f9433.css.map",
+    "main.ed020fd2.js.map": "/swagger-react-example/static/js/main.ed020fd2.js.map",
+    "453.07a6ab98.chunk.js.map": "/swagger-react-example/static/js/453.07a6ab98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.290f9433.css",
+    "static/js/main.ed020fd2.js"
+  ]
+}
